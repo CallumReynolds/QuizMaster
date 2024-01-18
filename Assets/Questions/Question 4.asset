@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c8c92b3495506047bdcbf43943b6220, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: Enter new question text here
+  question: 'History: What event was the turning point in the Horus Heresy, leading
+    to the Emperor''s internment on the Golden Throne?'
+  answers:
+  - A) The Battle of Molech
+  - B) The Drop Site Massacre
+  - C) The Istvaan III Atrocity
+  - D) The Battle of Terra
+  correctAnswerIndex: 2
